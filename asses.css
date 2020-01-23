@@ -1,0 +1,17 @@
+.active{
+   background-color: black; 
+}
+
+.skills{
+   background-color:#69afd6;
+  
+}
+.skill{
+      border-left: 10px solid #48b566;
+    border-radius: 3px;
+   margin-left: 70px;
+}
+.line{
+    margin-left: 70px;
+}
+
